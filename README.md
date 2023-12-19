@@ -1,4 +1,5 @@
-![Logo do projeto](.github/JScalculadora.png)
+![JScalculadora](https://github.com/MarcosDEVinicius/Calculadora/assets/121734930/3bc9db24-e555-415c-9e23-71974692d07c)
+
 
 # Calculadora
 
