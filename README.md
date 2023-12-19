@@ -1,90 +1,35 @@
-![JScalculadora](https://github.com/MarcosDEVinicius/Calculadora/assets/121734930/3bc9db24-e555-415c-9e23-71974692d07c)
+<h1 align="center">Calculadora</h1>
 
+<p align="center">A calculadora é uma ferramenta projetada para realizar operações matemáticas de maneira rápida e eficiente.</p>
 
-# Calculadora
-
-A calculadora é uma ferramenta projetada para realizar operações matemáticas de maneira rápida e eficiente
+  ![JScalculadora](https://github.com/MarcosDEVinicius/Calculadora/assets/121734930/3bc9db24-e555-415c-9e23-71974692d07c)
 
 ## 🔥 Introdução
 
-Coloque aqui as instruções e quais são os objetivos desse projeto, funcionalidades.
+Ela pode ser utilizada para realizar cálculos básicos, como adição, subtração, multiplicação e divisão
 
 ### ⚙️ Pré-requisitos
 
-Coloque aqui passo a passo que precisa para instalar o projeto e como instalá-lo.
-
-```
-Pode inserir exemplos.
-```
-
-### 🔨 Guia de instalação
-
-Explique aqui um passo a passo mostrando como deve executar para ter um ambiente de desenvolvimento em execução, desde instalar e rodar o projeto.
-
-Etapas para instalar:
-
-```
-Codigo, exemplos
-```
-Passo 2:
-```
-Codigo, exemplos
-```
-
-
-## 🛠️ Executando os testes (caso tenha testes)
-
-Explique como executar os testes automatizados para este sistema.
-
-```
-Coloque exemplos
-```
+Ter alguma IDE instalada e abrir no navegador de sua preferência.
 
 ## 📦 Tecnologias usadas:
 
 Coloque aqui as ferramentas que você usou para criar seu projeto, exemplo:
 
-* ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-* ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-* ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-
-- Link para pegar as badges: https://github.com/Ileriayo/markdown-badges
-
-Ou pode separar por stacks:
-
-**Front-end:**
-* [React JS](https://react.dev/)
-* [TailwindCSS](https://tailwindcss.com/)
-
-**Back-end:**
-* [NodeJS](https://nodejs.org/).
-* [TypeScript](https://www.typescriptlang.org/) 
-* [Mongo DB](https://mongodb.com/)
+* ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+* ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+* ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 👷 Autores
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início, colaboradores.
+* **Nome do dev** - *Ensinamento no curso* - [Matheus Battisti](https://github.com/matheusbattisti)
+  
+ ## :memo: Licença
 
-* **Nome do dev** - *Função realizada* - [nome_do_dev](https://github.com/link_do_Perfil)
-* **Sujeito Programador** - *Frontend do projeto* - [@sujeitoprogramador](https://github.com/devfraga)
-
-## 📄 Licença
-
-Esse projeto está sob a licença (nome da licença) - acesse os detalhes [LICENSE.md](https://github.com/link_da_licenca).
-
-## 💭 FAQ - Perguntas frequentes
-
-#### Questão 1
-
-Resposta 1
-
-#### Questão 2
-
-Resposta 2
-
+Esse projeto está sob a licença (MIT) - acesse os detalhes [LICENSE.md](https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT).
 
 ## 💡 Expressões de gratidão
 
 * Um agradecimento publicamente.
-* Para suporte, mande um email para nome@teste.com.
-* Link para o seu linkedin [Meu linkedin](https://url_do_link)
+* Para suporte, mande um email para - viniciuspdev@gmail.com
+* Link para o meu linkedin [Meu linkedin](https://www.linkedin.com/in/marcosviniciuspp/)
